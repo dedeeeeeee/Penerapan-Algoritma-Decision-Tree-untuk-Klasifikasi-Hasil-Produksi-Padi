@@ -14,6 +14,8 @@
 ## 📄 Deskripsi Singkat
 
 link dataset: https://www.kaggle.com/datasets/ardikasatria/datasettanamanpadisumatera?resource=download 
+
+
 Dataset ini berisi informasi mengenai hasil produksi padi tahunan dari berbagai provinsi di Pulau Sumatera, Indonesia. Data mencakup periode tahun 1993 hingga 2020 dan terdiri dari variabel-variabel agrikultur serta iklim yang dapat digunakan untuk:
 
 - Analisis produktivitas tanaman padi
