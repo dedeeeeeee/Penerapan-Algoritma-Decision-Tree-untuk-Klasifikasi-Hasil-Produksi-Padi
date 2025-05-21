@@ -27,7 +27,7 @@ Dataset ini berisi informasi mengenai hasil produksi padi tahunan dari berbagai 
 | Nama Kolom         | Deskripsi                                                                 |
 |--------------------|---------------------------------------------------------------------------|
 | `Provinsi`         | Nama provinsi di Sumatera tempat data diambil                             |
-| `Tahun`            | Tahun pengamatan (1993–2020)                                               |
+| `Tahun`            | Tahun produksi (1993–2020)                                               |
 | `Produksi`         | Total produksi padi dalam satuan ton                                      |
 | `Luas Panen`       | Luas lahan panen dalam satuan hektar                                      |
 | `Curah hujan`      | Rata-rata curah hujan tahunan (mm)                                        |
