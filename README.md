@@ -39,9 +39,11 @@ Dataset ini berisi informasi mengenai hasil produksi padi tahunan dari berbagai 
 1. Unduh semua file dari repository ini.
 2. Buka **Command Prompt (CMD)** atau **Terminal**.
 3. Arahkan ke folder project menggunakan perintah berikut:
+   
    cd path/to/folder
    
-4. Jalankan aplikasi Streamlit dengan perintah:
+5. Jalankan aplikasi Streamlit dengan perintah:
+   
    streamlit run nama_file.py
 
 
