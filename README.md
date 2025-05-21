@@ -1,4 +1,4 @@
-# Penerapan Algoritma Decision Tree untuk Klasifikasi Hasil Produksi Padi
+# Penerapan Algoritma Decision Tree untuk Klasifikasi Hasil Produksi Padi 
 
 
 ## 👥 KELOMPOK 7
@@ -40,10 +40,10 @@ Dataset ini berisi informasi mengenai hasil produksi padi tahunan dari berbagai 
 2. Buka **Command Prompt (CMD)** atau **Terminal**.
 3. Arahkan ke folder project menggunakan perintah berikut:
    
-   cd path/to/folder
+   **cd path/to/folder**
    
 5. Jalankan aplikasi Streamlit dengan perintah:
    
-   streamlit run nama_file.py
+   **streamlit run nama_file.py**
 
 
